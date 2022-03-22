@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+
+.h1 {
+    color: yellow;
+    background: blue;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p{
+    background: red;
+    padding: 200px;
+}
